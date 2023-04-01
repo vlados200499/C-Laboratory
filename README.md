@@ -2,7 +2,7 @@
 
 This repository contains C code samples for basic programming exercises. The code covers topics such as loops, input/output, conditional statements, and functions.
 
-## Code Samples
+## LAB2
 
 ### N1
 
